@@ -29,15 +29,20 @@ To use this program, follow these installation steps:
 
    ```bash
    git clone https://github.com/yourusername/password-generator.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd password-generator
+   ```
+3. Run the program:
+   ```bash
+   python password_generator.py
+   ```
 
-cd password-generator
-
-
-python password_generator.py
 
 
 
-Usage
+## Usage
 Generate Passwords from a File
 Run the program by selecting option 1 from the menu.
 Enter the name of the file containing names.
