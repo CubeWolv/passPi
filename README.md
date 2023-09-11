@@ -30,11 +30,11 @@ To use this program, follow these installation steps:
    ```bash
    git clone https://github.com/yourusername/password-generator.git
 
-   ```bash
-   cd password-generator
-   
-   ```bash
-   3. python password_generator.py
+cd password-generator
+
+
+python password_generator.py
+
 
 
 Usage
