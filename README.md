@@ -30,9 +30,11 @@ To use this program, follow these installation steps:
    ```bash
    git clone https://github.com/yourusername/password-generator.git
 
-
-2. cd password-generator
-3. python password_generator.py
+   ```bash
+   cd password-generator
+   
+   ```bash
+   3. python password_generator.py
 
 
 Usage
@@ -48,4 +50,6 @@ The program will display the generated passwords on the screen.
 
 
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+
+Now, the README indicates that your project is licensed under the MIT License and provides a link to the `LICENSE` file for more details.
+
